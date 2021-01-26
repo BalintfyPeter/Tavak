@@ -1,0 +1,41 @@
+table {
+    width: 100%;
+    color: rgb(6, 10, 119);
+    border: gray;
+    border-radius: 5px;
+}
+
+td {
+    box-shadow: 2px 2px rgb(6, 10, 119);
+    text-align: center;
+    padding: 20px;
+    border-radius: 5%;
+}
+
+.red {
+    color: rgb(190, 28, 3)
+}
+
+.blue1 {
+    background-color: rgb(185, 186, 253);
+}
+
+.blue2 {
+    background-color: rgb(155, 156, 253);
+}
+
+.blue_main {
+    background-color: rgb(214, 214, 254);
+}
+
+#gray1 {
+    background-color: rgb(184, 184, 184);
+}
+
+.gray_main {
+    background-color: rgb(214, 214, 214);
+}
+
+.left {
+    text-align: left;
+}
